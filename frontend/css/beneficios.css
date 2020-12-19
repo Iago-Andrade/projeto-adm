@@ -1,0 +1,26 @@
+#beneficios{
+    display: flex;
+    margin-bottom: 200px;
+}
+
+#celular-beneficios img{
+    width: 250px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 70px;
+    
+}
+
+#beneficios-titulo h1{
+    color: red;
+    font-size: 68px;
+    margin-left: 150px;
+}
+
+#beneficios-titulo li{
+    color: grey;
+    margin-left: 140px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
